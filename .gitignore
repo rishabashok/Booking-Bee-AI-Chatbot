@@ -1,0 +1,9 @@
+# Ignore the virtual environment folder
+bookingvenv/
+
+# Ignore Python bytecode files
+*.pyc
+__pycache__/
+
+# Ignore environment variable file (for API keys)
+.env
